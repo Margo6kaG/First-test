@@ -1,2 +1,2 @@
 # First-test
-print ('Hello')
+print ('Hello from newbie!')
